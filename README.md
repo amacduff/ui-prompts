@@ -1,15 +1,15 @@
 # UI Prompts
-30 design challenges to boost your UI design skills
+30 design challenges to boost your UI design skills. Basically a trimmed down version of Clark Dinnison's 100 [Daily UI](http://www.dailyui.co/) prompts.
 
-01. Search
-02. Social Share
-03. Landing Page (Above the Fold)
-04. Settings
-05. Flash Message
-06. On/Off Switch
-07. Pop-Up/Overlay
-08. Subscribe
-09. Dropdown
+1. Search
+2. Social Share
+3. Landing Page (Above the Fold)
+4. Settings
+5. Flash Message
+6. On/Off Switch
+7. Pop-Up/Overlay
+8. Subscribe
+9. Dropdown
 10. 404 Page
 11. Contact Us
 12. Map
